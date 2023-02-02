@@ -14,4 +14,10 @@ drop-shadow(0px 4px 5px rgba(48, 79, 254, 0.2));
 drop-shadow(0px 8px 10px rgba(122, 124, 255, 0.14))
 drop-shadow(0px 3px 14px rgba(122, 124, 255, 0.12))
 drop-shadow(0px 4px 5px rgba(122, 124, 255, 0.2));
+
+Размеры кнопки: 32px (s), 40px (m), 48px (l)
+
+Диаметр закругления: 4px
+
+Скорость переходов: 160 мс
 */
