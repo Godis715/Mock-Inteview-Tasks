@@ -10,8 +10,6 @@ export default function App() {
       <UrlCleanup />
       <hr />
       <CatFact />
-      <CatFact />
-      <CatFact />
       <hr />
       <TaskDebounce />
       <hr />
